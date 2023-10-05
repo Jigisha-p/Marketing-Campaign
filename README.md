@@ -4,8 +4,7 @@
 ‘Marketing mix’ is a popular concept used in implementing marketing strategies. A marketing mix includes multiple areas of focus as part of a comprehensive marketing plan. This all revolves around the four Ps of marketing - product, price, place, and promotion.
 
 ### Problem Objective:
-To perform exploratory data analysis and hypothesis testing.
-The goal is to gain a better understanding of the various factors that contribute to customer acquisition.
+Perform exploratory data analysis and hypothesis testing to gain a better understanding of the various factors that contribute to customer acquisition.
 
 ### Steps:
 - Import data and investigate variables like Dt_Customer and Income, etc.
